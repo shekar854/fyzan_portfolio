@@ -1,0 +1,74 @@
+body{
+    background: lightgrey;
+    background-image: url(./fybg1.png);
+    background-repeat: repeat;
+
+}
+.container-fluid{
+   background: lightpink;
+   color: white;
+   margin: 15px;
+   padding-inline-start: 10px;
+}
+.nav-link{
+    font-size: large;
+}
+.container-1{
+    margin-inline-start: auto;
+}
+.img{
+    
+    margin-left: 50px;
+    padding-top: 40px;
+    border-color: aquamarine;  
+}
+.card-mb-3{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    box-sizing: content-box;
+    border-color: aquamarine;
+    border-style: ridge;
+    margin-right: 30px;
+    margin-left: 35px;
+    
+}
+.card-body{
+    margin-left: 80px;
+    
+    padding-top: 120px;
+}
+button{
+    
+    border-style: dotted;
+    color: crimson;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.button-1{
+    margin-left: auto;
+    margin-inline-start: auto;
+    margin-right: 5px;
+    border-style:var(50px);
+    color-scheme: blue;
+}
+.footer{
+    background-color: darkblue;
+    padding-top: 5px;
+    margin-top: 5px;
+    color: white;
+}
+p{
+    padding-left: 25px;
+}
+h5{
+    padding-left: 25px;
+}
+.marquee{
+    color: white;
+}

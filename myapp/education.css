@@ -1,0 +1,12 @@
+body{
+    padding-left: 30px;
+    background-color: bisque;
+}
+h2{
+    text-align: center;
+}
+.footer{
+    background-color: darkgrey;
+    color: aliceblue;
+    padding-bottom: 1cm;
+}
